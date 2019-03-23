@@ -9,7 +9,7 @@ for LSL.
 LSL's float is low precision and the phase number may be off by a day
 due to rounding errors.
 The values that I tested were good for new moon and full moon, 
-but one half moon calculation was off.
+but one half moon calculation was off by a half day.
 
 ## Use
 
